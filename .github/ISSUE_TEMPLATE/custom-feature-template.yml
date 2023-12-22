@@ -1,4 +1,4 @@
-name: Feature Report
+name: Custom Feature Report
 description: File a feature report
 title: "[Feature]: "
 labels: ["feature", "triage"]
