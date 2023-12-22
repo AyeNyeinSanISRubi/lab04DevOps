@@ -40,7 +40,7 @@ body:
         - WindowsOS
         - MacOS (OSX)
   - type: textarea
-    id: Feature Details
+    id: FeatureDetails
     attributes:
       label: What are the details of your suggestion?
       description: Explain what do you want
